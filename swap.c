@@ -2,7 +2,9 @@
 
 int main()
 {
-	int a=1,b=3;
+	int a,b;
+	printf("enter both no");
+	scanf("%d%d",&a,&b);
 	a=b-a;
 	b=a;
 	a=a+b;
