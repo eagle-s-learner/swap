@@ -1,2 +1,2 @@
 # swap
-program to switch two no without using 3rd variable
+Program to switch two numbers without using 3rd variable
