@@ -8,6 +8,6 @@ int main()
 	a=a*b;
 	b=a/b;
 	a=a/b;
-	printf("a=%d,b=%d",a,b);
+	printf("First number:a=%d,b=%d",a,b);
 	return 0;
 }
